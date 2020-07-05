@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DVDRental": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}
