@@ -1,3 +1,3 @@
 # DVDRental
 
-NPGSQL Exercise for University Class 
+NPGSQL Exercise with Data Mapper design pattern for University Class 
